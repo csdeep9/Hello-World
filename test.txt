@@ -3,3 +3,5 @@ This is my 2nd file
 This is my 3rd file
 This is my 4th file
 This is my 5th file
+This is my 6th file
+This is my 7th file
